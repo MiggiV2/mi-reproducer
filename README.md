@@ -2,7 +2,7 @@
 
 This project is a simple reproduces of my kogito bug.
 
-## Bug description
+## Bug description (failing-sub.bpmn2)
 
 I'm using 'Multiple Instance's to process a list of Strings.  
 The results should be saved in the list `greeting`.
